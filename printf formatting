@@ -1,0 +1,9 @@
+#include <stdio.h>
+
+int main() {
+    printf("Integer: %d\n", 42);
+    printf("Float: %.2f\n", 3.14159);
+    printf("Character: %c\n", 'A');
+    printf("String: %s\n", "Hello!");
+    return 0;
+}
