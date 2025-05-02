@@ -1,0 +1,10 @@
+#include <stdio.h>
+
+int main() {
+    printf("Integer: %d\n", 42);           // Prints an integer
+    printf("Float: %.2f\n", 3.14159);      // Prints a float with 2 decimal places
+    printf("Character: %c\n", 'A');        // Prints a character
+    printf("String: %s\n", "Hello!");      // Prints a string
+    
+    return 0;
+}
