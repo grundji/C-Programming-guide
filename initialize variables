@@ -1,0 +1,2 @@
+int age = 25; // Declaration + initialization
+float pi = 3.14; // Always initialize variables!
