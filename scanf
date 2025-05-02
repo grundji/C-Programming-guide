@@ -1,0 +1,2 @@
+char name[10];
+scanf("%s", name);  // Unsafe - no input size restriction
