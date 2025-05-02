@@ -1,0 +1,3 @@
+unsigned int positiveNumber = 4294967295; // No negatives!
+short int smallRange = 32767; // Less space, smaller range
+long int bigRange = 9223372036854775807; // Large values
