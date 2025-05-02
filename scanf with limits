@@ -1,0 +1,1 @@
+scanf("%9s", name);  // Limits input to 9 characters (+ null terminator)
